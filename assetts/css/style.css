@@ -100,7 +100,7 @@ button[disabled] {
   float: right;
 }
 
-#question {
+#answers {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
